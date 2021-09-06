@@ -1,0 +1,2 @@
+All examples are in this repository or linked to via this repo:
+https://github.com/g0t4/jenkins-getting-started
